@@ -1,0 +1,26 @@
+{
+    "name": "Agustines Sudibya",
+    "website": "https://asudibya.github.io/",
+    "linkedin": "https://www.linkedin.com/in/aksudibya/",
+    "github": "https://github.com/ksudibya",
+    "email": "agustines.sudibya@generalassemb.ly",
+    "resume": "https://agustinessudibya.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
